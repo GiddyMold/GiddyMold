@@ -1,44 +1,69 @@
-# Hello there 👋
-<h3 align="center">ICT Network Security engineer | Cybersecurity Master's degree student</h3>
-
-I am a cybersecurity enthusiast and a student passionate about using technology to make the digital world a safer place. I have a strong foundation in security principles, protocols, and technologies and I am always eager to learn more and stay up-to-date.
-
+Hello there 👋
+<h3 align="center">ICT Network Security Engineer | Cybersecurity M.Sc. Graduate</h3>
+I'm a passionate cybersecurity professional with 2+ years of experience in ICT Network Security. With a Master's degree in Cybersecurity and a strong foundation in vulnerability assessment, penetration testing, and security automation, I'm dedicated to making digital infrastructures more resilient against evolving threats.
 <p align="center">
   <img src="https://static.thenounproject.com/png/447521-200.png" alt="Your Name" width="200"/>
 </p>
+About Me
 
-## Overview
+🔒 Currently working at Nokia Solutions and Networks as a Security and Integration Tester, focusing on 5G infrastructure security
+🎓 Graduated with a Master's degree in Cybersecurity (Grade 5.0) from Wrocław University of Science and Technology
+🔍 Experienced in vulnerability scanning with tools like Tenable Nessus, QualysGuard, and Burp Suite
+💻 Automation enthusiast using Python, Robot Framework, and Ansible to streamline security processes
+🧪 Hands-on experience with robustness testing using Condenomicon Defensics
+🛠️ Maintaining a home lab server for continuous learning and experimentation
+🏆 Active participant in Capture The Flag (CTF) competitions to sharpen my offensive security skills
 
-- 🔐 As a cybersecurity student, my GitHub portfolio showcases my passion for protecting the digital world. From implementing security measures in web applications to conducting penetration tests, I have honed my skills in identifying and mitigating various cyber threats.
+Technical Expertise
+Security Tools & Technologies
 
-- 💡 I have a solid understanding of security principles, protocols, and technologies, and I am always eager to learn more and stay up-to-date.
+Vulnerability Scanning: Tenable Nessus, QualysGuard
+Network Security: NMAP, Firewalls, IDPS, VPN
+Web Application Security: Burp Suite, OWASP Top 10
+Robustness Testing: Condenomicon Defensics
+Security Frameworks: ISO 27001, NIST CSF
 
-- 💬 My goal is to use my skills and knowledge to make a positive impact in the world of cybersecurity and help organizations safeguard their valuable assets.
+Programming & Automation
 
-- 🤝 Take a look at my projects and contributions, and let's connect to learn and grow together in the exciting field of cybersecurity!
+Python
+Bash Scripting
+Robot Framework
+Ansible
+SQL Fundamentals
 
-- 📫 I am always open to collaborate on new projects and learn from others in the community. Feel free to reach out to me on LinkedIn or by email (Info under bio).
+Systems & Infrastructure
 
+Linux (CentOS, Debian)
+Windows
+Virtualization (KVM, Proxmox, VirtualBox)
+Containerization (Docker)
+Networking (TCP/IP, ISO/OSI)
+Cloud (Azure, Introduction to Cloud Computing)
 
+Recent Certifications
 
-Here on my GitHub page, you will find a collection of projects and contributions related to cybersecurity. From implementing security features in web applications to conducting vulnerability assessments, I have honed my skills in identifying and mitigating various security threats.
+Google: Connect and Protect: Networks and Network Security (2025)
+Google: Assets, Threats, and Vulnerabilities (2025)
+Google: Tools of the Trade: Linux and SQL (2025)
+IBM: Introduction to Cloud Computing (2025)
+SEP: Permissions to Exploitation of Electrical Devices up to 1kV (2025-2026)
+Kyndryl: Azure Starter Pack with DevOps and IaC Elements (In Progress, 2025)
 
-## Skills
-- C++
-- Python 
-- Cybersecurity fundamentals
-- Vulnerability assessment and management
-- Malware analysis
-- Troubleshooting
-- Network Security
-- Firewalls
-- Virtualization
-- GNS3 Network Simulation
-- Security Scanning
+Current Projects
 
-<h3 align="center">Let's connect and grow together in the exciting field of cybersecurity! 🔐</h3
+Building comprehensive security testing pipelines for 5G infrastructure
+Developing automated vulnerability assessment tools using Python
+Exploring Zero Trust Architecture implementation for enterprise networks
+Researching secure DevOps practices for critical infrastructure
+
+Get in Touch
+
+📧 Email: giddymold@gmail.com
+🔗 LinkedIn: linkedin.com/in/arkadiusz-parafiniuk
+📍 Wrocław, Poland
+
+<h3 align="center">Let's connect and strengthen the digital world through innovative cybersecurity solutions! 🔐</h3>
 <br>
-
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cybersecurity" width="200"/>
 </p>
